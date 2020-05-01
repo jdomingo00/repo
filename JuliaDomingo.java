@@ -3,7 +3,7 @@ public class JuliaDomingo{
 	private String tel;
 	JuliaDomingo(int e, String t)
 	{
-		edat=e;
+		edat=12;
 		tel=t;
 	}
 }
