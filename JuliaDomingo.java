@@ -5,5 +5,6 @@ public class JuliaDomingo{
 	{
 		edat=12;
 		tel="653535412";
+
 	}
 }
